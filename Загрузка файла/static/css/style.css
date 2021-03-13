@@ -1,0 +1,21 @@
+h1{
+text-align:center;
+}
+h2{
+text-align:center;
+}
+
+h5{
+text-align:left;
+}
+
+button {
+text-align:left;
+}
+.login_form{
+border: 2px solid #8B4513;
+border-radius:10px;
+padding: 20px;
+background-color:#FFDAB9;
+}
+
